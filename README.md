@@ -44,3 +44,5 @@ PRERREQUISITOS
 Webpedia:
 load imagenes:
 	https://stackoverrun.com/es/q/8315597
+	https://www.it-swarm-es.tech/es/python-2.7/leer-varias-imagenes-en-una-carpeta-en-opencv-python/1057086468/
+	
