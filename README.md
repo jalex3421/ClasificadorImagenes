@@ -12,8 +12,8 @@ Entregar: código , análisis (comparativa de varias pruebas)
 
      ---Clasificación de señales--------------
            1.leer imagenes
-           2.Preprocesamiento?
-           3.Mismo size
+	   2.Mismo size           
+	   3.Preprocesamiento
            4. Extracción de características
            5. Elección de modelo para clasificar
 
