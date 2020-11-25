@@ -40,3 +40,7 @@ PRERREQUISITOS
 	    2. Algoritmo Hog (histograma de gradiente orientado) . Skimage (similar a skicitlearn). 
               -Divide la imagen en bloques, y en cada uno de ellos calcula magnitud y gradiente, creando histograma local. 
               - En círculo, en borde existe gradiente: a partir del histograma se discrimina  
+
+Webpedia:
+load imagenes:
+	https://stackoverrun.com/es/q/8315597
