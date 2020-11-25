@@ -11,11 +11,12 @@ Entregar: código , análisis (comparativa de varias pruebas)
  FASE 1
 
      ---Clasificación de señales--------------
-           1.leer imagenes
-	   2.Mismo size           
-	   3.Preprocesamiento
-           4. Extracción de características
-           5. Elección de modelo para clasificar
+           1. leer imagenes
+	   2. Mismo size
+	   3. Pensar Extracción de características (tipos de procesamiento)
+	   4. Preprocesamiento
+           5. Extracción de características
+           6. Elección de modelo para clasificar
 
  FASE 2
             --Detector de señales : dime donde puede haber una---------- Size aprox de 100x100
