@@ -52,3 +52,5 @@ info:
 	https://www.pluralsight.com/guides/building-features-from-image-data-in-python
 umbralizacion variable:
 	http://acodigo.blogspot.com/2017/08/umbralizacion-adaptativa-con-opencv.html
+feauture extraction:
+	https://www.analyticsvidhya.com/blog/2019/08/3-techniques-extract-features-from-image-data-machine-learning-python/
