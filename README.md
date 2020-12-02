@@ -48,3 +48,5 @@ load imagenes:
 	
 modificar imagen:
 	https://likegeeks.com/es/procesar-de-imagenes-en-python/
+info:
+	https://www.pluralsight.com/guides/building-features-from-image-data-in-python
