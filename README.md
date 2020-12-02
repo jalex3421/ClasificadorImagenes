@@ -48,11 +48,21 @@ load imagenes:
 	
 modificar imagen:
 	https://likegeeks.com/es/procesar-de-imagenes-en-python/
-info:
+(info:
 	https://www.pluralsight.com/guides/building-features-from-image-data-in-python
 umbralizacion variable:
-	http://acodigo.blogspot.com/2017/08/umbralizacion-adaptativa-con-opencv.html
+	http://acodigo.blogspot.com/2017/08/umbralizacion-adaptativa-con-opencv.html)
+	
+	NECESITMOS DIFERENTES TIPOS DE FEATURE EXTRACTION!!!!!!
+	
 feauture extraction:
 	https://www.analyticsvidhya.com/blog/2019/08/3-techniques-extract-features-from-image-data-machine-learning-python/
+	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8117846
+	
+	TOP
+		https://docs.opencv.org/3.4/db/d27/tutorial_py_table_of_contents_feature2d.html
+		
+Tipos de feature extraction:
+	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8117846
 	
 Hog:  https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_hog.html
