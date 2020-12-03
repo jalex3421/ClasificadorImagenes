@@ -66,3 +66,11 @@ Tipos de feature extraction:
 	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8117846
 	
 Hog:  https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_hog.html
+
+SHIFT:
+	
+
+SURF:
+	In short, SURF adds a lot of features to improve the speed in every step.
+	Analysis shows it is 3 times faster than SIFT while performance is comparable to SIFT.
+	SURF is good at handling images with blurring and rotation, but not good at handling viewpoint change and illumination change.
