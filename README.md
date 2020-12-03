@@ -68,8 +68,8 @@ Tipos de feature extraction:
 Hog:  https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_hog.html
 
 SHIFT:
+	KeyPoint and descriptors: https://dsp.stackexchange.com/questions/10423/why-do-we-use-keypoint-descriptors
 
-KeyPoint and descriptors: https://dsp.stackexchange.com/questions/10423/why-do-we-use-keypoint-descriptors
 SURF:
 	In short, SURF adds a lot of features to improve the speed in every step.
 	Analysis shows it is 3 times faster than SIFT while performance is comparable to SIFT.
