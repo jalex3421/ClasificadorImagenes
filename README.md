@@ -74,6 +74,8 @@ SURF:
 	In short, SURF adds a lot of features to improve the speed in every step.
 	Analysis shows it is 3 times faster than SIFT while performance is comparable to SIFT.
 	SURF is good at handling images with blurring and rotation, but not good at handling viewpoint change and illumination change.
+	
+	
 REPOSITORIO_OP: https://github.com/methylDragon/opencv-python-reference/blob/master/02%20OpenCV%20Feature%20Detection%20and%20Description.md
 	
 
