@@ -15,3 +15,5 @@ Este el README del objetivo 2
 0006: edificio
 
 0007: moto
+
+0008: semaforo
