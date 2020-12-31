@@ -21,3 +21,5 @@ Este el README del objetivo 2
 0009: basura
 
 0010: farola
+
+0011: estatua
