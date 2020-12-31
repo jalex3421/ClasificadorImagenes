@@ -17,3 +17,5 @@ Este el README del objetivo 2
 0007: moto
 
 0008: semaforo
+
+0009: basura
