@@ -27,3 +27,5 @@ Este el README del objetivo 2
 0012: paso zebra
 
 0013: carteles
+
+0014: ventana
