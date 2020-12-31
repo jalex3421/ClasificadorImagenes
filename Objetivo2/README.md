@@ -23,3 +23,5 @@ Este el README del objetivo 2
 0010: farola
 
 0011: estatua
+
+0012: paso zebra
