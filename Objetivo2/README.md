@@ -25,3 +25,5 @@ Este el README del objetivo 2
 0011: estatua
 
 0012: paso zebra
+
+0013: carteles
