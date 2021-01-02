@@ -29,3 +29,5 @@ Este el README del objetivo 2
 0013: carteles
 
 0014: ventana
+
+0015: paisajes
